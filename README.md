@@ -9,7 +9,6 @@
 ## 🔗 Live Demo
 
   🌐 **Visit Here**: [AI Notes Frontend](https://ai-notes-front.vercel.app))  
-🔗 **API Backend**: [AI Notes Backend](https://ai-notes-backend-ghj3.onrender.com)
 
 ---
 
