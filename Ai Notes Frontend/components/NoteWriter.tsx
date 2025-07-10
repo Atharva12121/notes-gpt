@@ -178,7 +178,7 @@ const handleGenerateFromPDF = async () => {
     setErrors({});
 
     try {
-      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/Addnotes`, {
+      const response = await fetch("https://ai-notes-backend-ghj3.onrender.com/Addnotes", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
