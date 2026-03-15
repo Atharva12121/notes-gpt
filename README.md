@@ -128,22 +128,7 @@ Model	Description
 
 🧑‍🎓 Student mode with syllabus summarization
 
-🌐 Multilingual support
-
 🙋‍♂️ Author
 👤 Atharva Karemore
 📧 Email: [karemoreatharva@gmail.com]
-🔗 Portfolio: [your-portfolio-link]
 
-📄 License
-MIT License © 2025 Atharva Karemore
-
-✨ Crafted with intelligence, for intelligent note-takers.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like this converted into a live `README.md` file or published into a GitHub repo for you!
