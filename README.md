@@ -38,7 +38,7 @@
 - Markdown Editor: `react-markdown`, `textarea-autosize`
 - Toasts & Alerts: `react-hot-toast`, `radix-ui`
 
-### ⚙️ Backend – `Flask`, `Python`
+### ⚙️ Backend – `Flask`, `Python 3.12`
 - AI Integration: Calls local/remote AI models
 - File Upload: Handles PDF/image inputs
 - Data Storage: `PostgreSQL` or `SQLite`
