@@ -1,0 +1,9 @@
+﻿Flask
+flask_sqlalchemy
+flask_cors
+python-dotenv
+requests
+groq
+openai
+PyMuPDF
+psycopg2-binary
